@@ -85,7 +85,7 @@ Me chamo Gustavo Braz Frainer, tenho 19 anos e sou de São Paulo, Capital. Concl
 <br/>
 <br/>
 
-### 📊 Estatísticas
+### 📈 Estatísticas
 
 <p>
   <img 
