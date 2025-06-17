@@ -1,8 +1,8 @@
 # 👩🏻‍💻 Gustavo Frainer
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor FullStack`**
 
-Me chamo Larissa Vitória Kich, tenho 20 anos e sou natural do Rio Grande do Sul. Concluí o ensino médio no IFRS, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na PUCRS. Sou apaixonada por tecnologia e compartilho meu conhecimento através do meu canal no YouTube "[Larissa Kich](https://www.youtube.com/@larissakich)", onde ensino a criar projetos web, e também através do Instagram, com o perfil chamado "[Dev em Dev](https://www.instagram.com/dev_em_dev/)".
+Me chamo Gustavo Braz Frainer, tenho 19 anos e sou de São Paulo, Capital. Concluí o ensino médio no Colégio Presbiteriano Mackenzie, e atualmente, estou cursando Sistemas de Informação na Universidade Presbiteriana Mackenzie. Sou ofixionado por tecnologia, e estou sempre estudando e pesquisando para aprender mais sobre esse mundo".
 
 <p align="left">
     <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
