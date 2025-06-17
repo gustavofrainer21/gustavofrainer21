@@ -7,8 +7,8 @@ Me chamo Gustavo Braz Frainer, tenho 19 anos e sou de São Paulo, Capital. Concl
 <p align="left">
     <a href="https://www.linkedin.com/in/gustavofrainer/">
         <img 
-            alt="youtube subscribers" 
-            title="Inscreva-se no meu canal" 
+            alt="Linkedin" 
+            title="Linkedin" 
             src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
         />
     </a>
