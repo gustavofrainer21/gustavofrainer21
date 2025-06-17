@@ -5,7 +5,7 @@
 Me chamo Gustavo Braz Frainer, tenho 19 anos e sou de São Paulo, Capital. Concluí o ensino médio no Colégio Presbiteriano Mackenzie, e atualmente, estou cursando Sistemas de Informação na Universidade Presbiteriana Mackenzie. Sou ofixionado por tecnologia, e estou sempre estudando e pesquisando para aprender mais sobre esse mundo".
 
 <p align="left">
-    <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
+    <a href="https://www.linkedin.com/in/gustavofrainer/">
         <img 
             alt="youtube subscribers" 
             title="Inscreva-se no meu canal" 
