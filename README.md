@@ -82,6 +82,13 @@ Me chamo Gustavo Braz Frainer, tenho 19 anos e sou de São Paulo, Capital. Concl
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
+<img 
+      align="rigth" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavofrainer21&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
 <br/>
 <br/>
 
@@ -96,11 +103,6 @@ Me chamo Gustavo Braz Frainer, tenho 19 anos e sou de São Paulo, Capital. Concl
     src="https://github-readme-stats.vercel.app/api?username=gustavofrainer21&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
-<img 
-      align="rigth" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavofrainer21&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+
 
 </p>
