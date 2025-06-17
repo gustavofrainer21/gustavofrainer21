@@ -1,7 +1,5 @@
 # 🧑🏼‍💻 Gustavo Frainer
 
-<br/>
-
 **`Estudante de Sistemas de Informação`**
 
 <br/>
