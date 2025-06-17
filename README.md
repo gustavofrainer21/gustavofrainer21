@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Gustavo Frainer
+# 🧑🏼‍💻 Gustavo Frainer
 
 **`Desenvolvedor FullStack`**
 
