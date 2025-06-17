@@ -1,6 +1,6 @@
 # 🧑🏼‍💻 Gustavo Frainer
 
-### Sobre mim
+**`Estudante de Sistemas de Informação`**
 
 Me chamo Gustavo Braz Frainer, tenho 19 anos e sou de São Paulo, Capital. Concluí o ensino médio no Colégio Presbiteriano Mackenzie, e atualmente, estou cursando Sistemas de Informação na Universidade Presbiteriana Mackenzie. Sou ofixionado por tecnologia, e estou sempre estudando e pesquisando para aprender mais sobre esse mundo".
 
