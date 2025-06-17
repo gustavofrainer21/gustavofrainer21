@@ -96,8 +96,6 @@ Me chamo Gustavo Braz Frainer, tenho 19 anos e sou de São Paulo, Capital. Concl
     src="https://github-readme-stats.vercel.app/api?username=gustavofrainer21&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
-<br/>
-
 <img 
       align="left" 
       alt="GitHub Stats" 
