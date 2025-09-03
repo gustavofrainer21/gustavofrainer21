@@ -30,6 +30,14 @@ Me chamo Gustavo Braz Frainer, tenho 19 anos e sou de São Paulo, Capital. Concl
 />
 <img 
     align="left" 
+    alt="Swift" 
+    title="Swift"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" 
+/>
+<img 
+    align="left" 
     alt="HTML"
     title="HTML" 
     width="30px" 
@@ -51,14 +59,6 @@ Me chamo Gustavo Braz Frainer, tenho 19 anos e sou de São Paulo, Capital. Concl
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Swift" 
-    title="Swift"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" 
 />
 <img 
     align="left" 
