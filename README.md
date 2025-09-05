@@ -74,7 +74,7 @@ Me chamo Gustavo Braz Frainer, tenho 19 anos e sou de São Paulo, Capital. Concl
 
 ### 📈 Estatísticas
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavofrainer21&hide=html,css,javascript&layout=compact&theme=radical&cache_seconds=3600)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavofrainer21&layout=compact&theme=radical&cache_seconds=3600)
 
 <p>
 <img 
