@@ -4,7 +4,7 @@
 
 ### 💻 Sobre mim
 
-Me chamo Gustavo Braz Frainer, tenho 20 anos e sou de São Paulo, Capital. Concluí o ensino médio no Colégio Presbiteriano Mackenzie, e atualmente estou cursando Sistemas de Informação na Universidade Presbiteriana Mackenzie. Sou aficionado por tecnologia, e estou sempre estudando e pesquisando para aprender mais sobre esse mundo.
+Me chamo Gustavo Braz Frainer, tenho 21 anos e sou de São Paulo, Capital. Concluí o ensino médio no Colégio Presbiteriano Mackenzie, e atualmente estou cursando Sistemas de Informação na Universidade Presbiteriana Mackenzie. Sou aficionado por tecnologia, e estou sempre estudando e pesquisando para aprender mais sobre esse mundo.
 
 <p align="left">
     <a href="https://www.linkedin.com/in/gustavofrainer/">
